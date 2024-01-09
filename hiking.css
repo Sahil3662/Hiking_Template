@@ -1,0 +1,46 @@
+body {
+	background:url("bgimage.jpg") no-repeat;
+	background-size:cover;
+  }
+  .image {
+	background: url("https://images.theconversation.com/files/405661/original/file-20210610-18-imwshy.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=675.0&fit=crop") no-repeat;	
+	display:inline-block;
+	position: relative;
+	width: 900px;
+	height: 600px;
+	margin:70px 0px 60px 90px;
+	float:left;
+  } 
+  .content{
+	  background-color:#454545;
+	  margin:70px 90px 60px -4px;
+	  display:inline-block;
+	  height:600px;
+	  width:400px;
+  }
+  .heading{
+	  font-size:60px;
+	  font-style:italic;
+      align-content: center;
+      text-align: center;
+  }
+  .para{
+	  text-align:center;
+	  font-family:"Times New Roman", Times, serif;
+	  font-size:25px;
+  }
+  .button{
+	  background-color:aqua;
+		border: none;
+		color: black;
+		padding: 20px 62px;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+		font-size: 16px;
+	  margin: auto;
+		cursor: pointer;
+	  text-align:center;
+	  letter-spacing:1px;
+	  display:flex;
+		}
